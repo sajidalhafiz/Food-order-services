@@ -106,9 +106,11 @@ footer{
 	border:3px solid gray;
 	background: black;
 	margin-top: 200px;
-	color:orange
 }
 h3{
 	text-align: center;
+	color: gray;
+}
+#k1{
 	color: gray;
 }
