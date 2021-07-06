@@ -1,0 +1,114 @@
+
+body{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+section{
+	width: 100%;
+}
+span{
+	color: orange;
+}
+.button{
+	background-image: linear-gradient(rgb(240, 168, 35),rgb(209, 14, 14));
+	border-radius: 20px;
+	padding: 12px 30px;
+	text-decoration: none;
+	font-weight: 900;
+	color:white;
+}
+.first-look{
+	width: 100%;
+	height: 700px;
+	display: flex;
+	text-align: center;
+}
+.second-look{
+	width: 100%;
+	height: 700px;
+	display: flex;
+	text-align: center;
+	background-image: url(images/shapes/7.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+#back-img{
+	width: 100%;
+	height: auto;
+	
+}
+.width-content{
+	width: 40%;
+	margin-left: 100px;
+	padding: 10px;
+}
+.width-img{
+	width: 60%;
+
+}
+#img1{
+	width: auto;
+	height: 100%;
+	float: center;
+	padding-left: 150px; 
+}
+#img2{
+	width: auto;
+	height: 100%;
+	float:center;
+	padding-right: 150px;
+}
+
+.heading{
+	font-size: 80px;
+	text-align: center;
+}
+p{
+	font-size: 28px;
+	padding: 5px;
+	color: gray;
+	width: auto;
+	height: auto;
+	text-align: center;
+}
+.row{
+	width: auto;
+	display: flex;
+	height: 500px;
+	padding: 30px 150px;
+}
+.col{
+	width: 33%;
+	height: 90%;
+	margin: 30px;
+	border-radius: 60px;
+	padding: 30px;
+}
+.half{
+	width: auto;
+	height: 50%;
+}
+.recipe{
+	border-radius: 30px;
+	width: 100%;
+	height: 100%;	
+}
+.shadow{
+	box-shadow: 15px 17px 80px rgb(41, 40, 40);
+    height: 100%;
+}
+h1{
+	text-align: center;
+}
+footer{
+	border:3px solid gray;
+	background: black;
+	margin-top: 200px;
+	color:orange
+}
+h3{
+	text-align: center;
+	color: gray;
+}
